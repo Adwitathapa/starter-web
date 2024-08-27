@@ -16,4 +16,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Deployment can be on any web server
+
 ## How To Contibute
