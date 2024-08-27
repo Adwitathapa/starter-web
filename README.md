@@ -20,6 +20,8 @@ Deployment can be on any web server
 
 ## How To Contibute
 
+Please fork this repository and then issue Pull requests for review
+
 ### Copyright
 
  2024 Git.training
