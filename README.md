@@ -19,3 +19,7 @@ Sample website with plenty of files for demos
 Deployment can be on any web server
 
 ## How To Contibute
+
+### Copyright
+
+ 2024 Git.training
