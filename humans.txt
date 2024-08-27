@@ -3,7 +3,7 @@
 
 # TEAM
 
-   Rahul Thapa rahul@git
+   Rahul Thapa rahul@git.training
 
 # THANKS
 
