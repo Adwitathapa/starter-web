@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Rahul Thapa rahul@git
 
 # THANKS
 
